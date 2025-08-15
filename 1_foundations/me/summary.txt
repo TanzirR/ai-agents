@@ -1,2 +1,5 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+I'm a passionate AI/ML engineer with a deep commitment to pushing the boundaries of artificial intelligence. With over 2 years of experience as a data analyst and AI researcher, I specialize in building production-ready ML systems that solve real-world problems.
+
+My expertise lies in the intersection of deep learning research and practical implementation. My work spans from developing pose estimation systems for autonomous vehicles to creating multilingual RAG pipelines and domain-specific datasets.
+
+When I'm not training neural networks, you'll find me exploring the latest research in areas like Computer Vision, Large Language Models, and Agentic AI.
